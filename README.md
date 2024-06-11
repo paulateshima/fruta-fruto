@@ -33,4 +33,4 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui](https://alura-books-pi-vert.vercel.app/)
+Você pode acessar este Projeto 👉 [aqui](https://fruta-fruto-one-ruby.vercel.app/)
